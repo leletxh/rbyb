@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         移除B站“插件影响”提示（智能休眠版）
-// @namespace    https://github.com/yourname
+// @namespace    https://github.com/leletxh/rbyb/
 // @version      2.0
 // @description  删除B站的该死的黄色横幅！！！智能休眠监听，删除成功后彻底停止。
 // @author       Leletxh
