@@ -100,6 +100,3 @@ of this software [...]
 
 ---
 
-📌 **提示**：发布到 Greasy Fork 时，可将此 README 内容复制到“脚本描述”中，并替换占位图链接为真实截图。
-
-需要我帮你生成截图占位图、Greasy Fork 描述精简版、或添加更新日志（CHANGELOG），随时告诉我！
